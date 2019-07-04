@@ -1,6 +1,10 @@
 intro:
-  lead-in:
-  heading:
+  lead-in: |
+
+
+  heading:|
+
+  
   btn: Learn More
 
 services:
@@ -99,7 +103,7 @@ clients:
     url: "#"
 
 contact:
-  heading: Contact Us
+  heading: Let's Connect
   subheading: Lorem ipsum dolor sit amet consectetur.
   name: Your Name *
   name-required: Please enter your name.
