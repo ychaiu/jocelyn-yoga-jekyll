@@ -1,28 +1,26 @@
 brand:
-  name: Jocelyn Fong Yoga
+  name: Jocelyn Yoga
 menu-string: Menu
 
 nav:
-  - title: Services
-    url: '#services'
-  - title: Portfolio
-    url: '#portfolio'
   - title: About
     url: '#about'
-  - title: Team
-    url: '#team'
-  - title: Contact
-    url: '#contact'
+  - title: Sessions
+    url: '#sessions'
+  - title: About
+    url: '#about'
+  - title: Schedule
+    url: '#schedule'
+  - title: Connect
+    url: '#connect'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright &copy; Jocelyn Yoga 2019
 
 social-buttons:
-  - icon: fa fa-twitter
-    url: '#' 
+  - icon: fa fa-instagram
+    url: 'https://www.instagram.com/joce.yoga/?hl=en'
   - icon: fa fa-facebook
-    url: '#'
-  - icon: fa fa-linkedin
-    url: '#'
+    url: 'https://www.facebook.com/jocelynyoga/'
 
 quicklinks:
   - title: Privacy Policy
