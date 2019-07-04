@@ -8,14 +8,19 @@ services:
   subheading: Lorem ipsum dolor sit amet consectetur.
   service:
     - icon: fa fa-shopping-cart
-      heading: E-Commerce
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: One-on-One
+      text: I am available to schedule private sessions for those interested in starting their yoga practice with a strong foundation or relieving physical tension or mental stress. Through private sessions I am able to offer focused one-on-one sessions tailored to your individual needs and goals, which allows for greater attention and guidance than would otherwise be possible in a group setting.  
+      Individuals session rates are available on a sliding scale depending on your financial circumstances.
+
     - icon: fa fa-laptop
-      heading: Responsive Design
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Corporate
+      text: As a former tax accountant, I am familiar with the experience of working in a high-stress environment. Although it was always seemed like a miracle to be able to make time for yoga during the busy season, I don't recall ever regretting it when I dragged myself to a class.  
+      I am available to schedule yoga sessions at your office. Promoting yoga, health, and wellbeing in the workplace can help employees increase productivity and gain a deeper sense of happiness and job satisfaction. Invest in your employees' wellness. 
     - icon: fa fa-lock
-      heading: Web Security
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Nonprofit
+      text: As a San Francisco native, I am passionate about giving back to the local community. Regardless of your mission, I am sure that the health and wellbeing of your employees is pivotal to achieving it. Promoting yoga, health, and wellbeing in the workplace can help your employees increase productivity and gain an even deeper sense of happiness and job satisfaction.
+      Group session rates are available on a sliding scale depending on your nonprofit organization’s financial circumstances.
+
 
 portfolio:
   heading: Portfolio
