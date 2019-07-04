@@ -1,7 +1,7 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
-  btn: Tell Me More
+  lead-in:
+  heading:
+  btn: Learn More
 
 services:
   heading: Services
