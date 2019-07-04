@@ -9,8 +9,9 @@ services:
   service:
     - icon: fa fa-shopping-cart
       heading: One-on-One
-      text: |
+      text: |+
             I am available to schedule private sessions for those interested in starting their yoga practice with a strong foundation or relieving physical tension or mental stress. Through private sessions I am able to offer focused one-on-one sessions tailored to your individual needs and goals, which allows for greater attention and guidance than would otherwise be possible in a group setting. 
+            
             Individuals session rates are available on a sliding scale depending on your financial circumstances.
     - icon: fa fa-laptop
       heading: Corporate
